@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\bin\Debug\net7.0\Lab01Solano.exe
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\bin\Debug\net7.0\Lab01Solano.deps.json
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\bin\Debug\net7.0\Lab01Solano.runtimeconfig.json
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\bin\Debug\net7.0\Lab01Solano.dll
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\bin\Debug\net7.0\Lab01Solano.pdb
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.dll
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\refint\Lab01Solano.dll
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.pdb
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\Lab01Solano.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Lab01Solano\Lab01Solano\obj\Debug\net7.0\ref\Lab01Solano.dll
